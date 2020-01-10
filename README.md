@@ -1,6 +1,6 @@
 # LoanPrediction
 
-Link for the training and testing data is below :- 
+Link for the training and testing data is :- 
 https://www.kaggle.com/c/loan-default-prediction/data
 
 Firstly, run the jupyter notebook using the same command and then it will generate feature set and trained model as they are very big so couldn't  upload here. It would have saved lots of time but I can't help.
